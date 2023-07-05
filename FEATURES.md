@@ -1,7 +1,7 @@
 ## Section 1: Requirements
 - Week View
 - Event and Task Creation
-- Commitment Warnings
+- Commitment bulletJournal.model.Warnings
 - Persistence
 
 ## Section 2: Headlining Features

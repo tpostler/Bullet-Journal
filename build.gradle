@@ -14,8 +14,8 @@ checkstyle {
 }
 
 application {
-    mainModule = 'cs3500.pa05'
-    mainClass = 'cs3500.pa05.Driver'
+    mainModule = 'bulletJournal'
+    mainClass = 'bulletJournal.Driver'
 }
 
 // JaCoCo for code coverage
@@ -26,7 +26,7 @@ jacocoTestReport {
     dependsOn test // make sure that test task run before reports are run.
 }
 
-group 'cs3500.pa05'
+group 'bulletJournal'
 version '1.0-SNAPSHOT'
 
 repositories {

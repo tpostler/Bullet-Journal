@@ -17,7 +17,7 @@ Enjoy the Flourish animation for a delightful experience. Add a Privacy Lock for
 Simplify your event and task management with Eventa. Download now and take control of your schedule with ease!
 
 
-- S - The Model package contains separate classes for handling different aspects of the application, such as PasswordJson for password-related functionality and JsonUtils for JSON serialization and deserialization.
+- S - The Model package contains separate classes for handling different aspects of the application, such as bulletJournal.model.PasswordJson for password-related functionality and bulletJournal.model.JsonUtils for JSON serialization and deserialization.
 The Controller package contains classes responsible for specific tasks, such as SetupController for password setup and Event and Task Controller for managing tasks and events. 
 - O - The Model package contains classes for representing different entities in the application, such as Note and Goal. These classes are designed to be easily extendable, allowing for the addition of new entity types without modifying the existing code. For example, if a new entity type, such as Task, needs to be introduced, a new class can be created without modifying the existing codebase.
 - L - ControllerAbstract objects with their subclasses, such as ControllerTheme. This subclass inherits the common interface and behavior defined in the ControllerAbstract class, ensuring that they can be used interchangeably without modifying the existing codebase.
