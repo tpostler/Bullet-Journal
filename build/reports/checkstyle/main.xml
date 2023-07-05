@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.10.0">
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/Driver.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/ControllerInterface.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/ControllerDark.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/ControllerTheme.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="27" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - bulletJournal.model.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/ControllerSplash.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/TaskController.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/EventController.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/ControllerVertical.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/WelcomeController.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="9" column="1" severity="warning" message="Extra separation in import group before &apos;bulletJournal.model.FileOpen&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="9" column="1" severity="warning" message="Wrong lexicographical order for &apos;bulletJournal.model.FileOpen&apos; import. Should be before &apos;java.util.Optional&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="10" column="1" severity="warning" message="Wrong lexicographical order for &apos;bulletJournal.model.FileReader&apos; import. Should be before &apos;java.util.Optional&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/ControllerAbstract.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="27" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - bulletJournal.model.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="4" column="26" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - bulletJournal.view.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="9" column="1" severity="warning" message="Extra separation in import group before &apos;java.io.IOException&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/SceneSwitcher.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/ScreenController.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="26" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - bulletJournal.view.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/PopupUtils.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="10" column="1" severity="warning" message="Extra separation in import group before &apos;bulletJournal.model.TaskJson&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="10" column="1" severity="warning" message="Wrong lexicographical order for &apos;bulletJournal.model.TaskJson&apos; import. Should be before &apos;java.util.ArrayList&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/SettingsController.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/ControllerWeeklyStarter.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/controller/SetupPasswordController.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.controller&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/Warnings.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/TaskJson.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/PasswordJson.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/FileWriter.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/FileReader.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/GoalsJson.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/Description.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/FileCreate.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/FuzzySearch.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/FileOpen.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/Event.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/SaveModel.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/EventJson.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/Task.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/WeekNameJson.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/Weekday.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/NotesJson.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/model/JsonUtils.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.model&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewSplash.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewDark.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewPassword.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiView.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewTheme2.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewRequest.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="6" column="1" severity="warning" message="Extra separation in import group before &apos;bulletJournal.controller.ControllerInterface&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="6" column="1" severity="warning" message="Wrong lexicographical order for &apos;bulletJournal.controller.ControllerInterface&apos; import. Should be before &apos;java.io.IOException&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="7" column="1" severity="warning" message="Wrong lexicographical order for &apos;bulletJournal.controller.SetupPasswordController&apos; import. Should be before &apos;java.io.IOException&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewWeeklyStarter.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewVertical.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewSetting.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewAbstract.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewTheme3.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewTheme4.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewWelcome.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewEvent.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewTheme5.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewTask.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+<file name="/Users/toripos/Desktop/CS3500/Bullet-Journal/src/main/java/bulletJournal/view/GuiViewMain.java">
+<error line="1" column="9" severity="warning" message="Package name &apos;bulletJournal.view&apos; must match pattern &apos;^[a-z0-9]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+</file>
+</checkstyle>
